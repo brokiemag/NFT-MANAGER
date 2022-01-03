@@ -1,2 +1,2 @@
-# NFT-MANAGER
-MANAGER TO MANAGE YOUR NFT PHOTO'S ALL AT A TIME
+# nft-manager
+manager to manage your nft photo's all at a time
